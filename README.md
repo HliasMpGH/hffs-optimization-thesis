@@ -10,6 +10,8 @@ This repository contains all algorithms, implementations, experiments, and analy
   - Execute `src/alns_experiments.py` to run new experiments for the ALNS (Adaptive Large Neighborhood Search) algorithm.
 - Both scripts utilize problem instances located in `src/input/`.
 
+* Make sure you have first run `pip install -r requirements.txt` to install all needed dependencies
+
 ## Analysis and Replication
 
 - The `analysis/` directory contains complete analysis notebooks for the results.

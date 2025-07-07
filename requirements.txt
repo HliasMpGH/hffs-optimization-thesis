@@ -1,0 +1,9 @@
+cplex
+docplex
+matplotlib
+numpy
+optuna
+plotly
+pygad
+scipy
+pandas
